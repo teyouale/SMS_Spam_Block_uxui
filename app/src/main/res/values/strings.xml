@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SMS Spam Block</string>
+    <string name="Conversations">Conversations</string>
+    <string name="add">Add</string>
+    <string name="call">Call</string>
+    <string name="search">Search</string>
+    <string name="more">More</string>
+    <string name="navigation_drawer_open">1</string>
+    <string name="navigation_drawer_close">2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
